@@ -2,6 +2,7 @@
   {
     "title": "ProjectTitle",
     "name": "ProjectName",
+    "type": "websites",
     "description": "Lorem Ipsum",
     "client": "ClientName",
     "date": "01/00/2000",
