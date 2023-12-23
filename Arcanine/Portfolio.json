@@ -1,12 +1,12 @@
 [
   {
-    "title": "projectTitle",
-    "name": "ProjectName",
-    "type": "websites",
-    "description": "Lorem Ipsum",
-    "client": "ClientName",
+    "title": "Dasher",
+    "name": "Dasher",
+    "type": "design",
+    "description": "-",
+    "client": "-",
     "date": "01/00/2000",
-    "link": "google.com",
+    "link": "-",
     "imgcount": "4"
   }
 ]
